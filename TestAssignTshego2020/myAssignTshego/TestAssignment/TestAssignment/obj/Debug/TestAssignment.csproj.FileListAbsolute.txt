@@ -1,0 +1,11 @@
+C:\Users\Tshego\Desktop\TestAssignTshego2020\myAssignTshego\TestAssignment\TestAssignment\bin\Debug\TestAssignment.exe.config
+C:\Users\Tshego\Desktop\TestAssignTshego2020\myAssignTshego\TestAssignment\TestAssignment\bin\Debug\TestAssignment.exe
+C:\Users\Tshego\Desktop\TestAssignTshego2020\myAssignTshego\TestAssignment\TestAssignment\bin\Debug\TestAssignment.pdb
+C:\Users\Tshego\Desktop\TestAssignTshego2020\myAssignTshego\TestAssignment\TestAssignment\obj\Debug\TestAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Tshego\Desktop\TestAssignTshego2020\myAssignTshego\TestAssignment\TestAssignment\obj\Debug\TestAssignment.Screen1.resources
+C:\Users\Tshego\Desktop\TestAssignTshego2020\myAssignTshego\TestAssignment\TestAssignment\obj\Debug\TestAssignment.Properties.Resources.resources
+C:\Users\Tshego\Desktop\TestAssignTshego2020\myAssignTshego\TestAssignment\TestAssignment\obj\Debug\TestAssignment.Screen2.resources
+C:\Users\Tshego\Desktop\TestAssignTshego2020\myAssignTshego\TestAssignment\TestAssignment\obj\Debug\TestAssignment.Screen3.resources
+C:\Users\Tshego\Desktop\TestAssignTshego2020\myAssignTshego\TestAssignment\TestAssignment\obj\Debug\TestAssignment.csproj.GenerateResource.Cache
+C:\Users\Tshego\Desktop\TestAssignTshego2020\myAssignTshego\TestAssignment\TestAssignment\obj\Debug\TestAssignment.exe
+C:\Users\Tshego\Desktop\TestAssignTshego2020\myAssignTshego\TestAssignment\TestAssignment\obj\Debug\TestAssignment.pdb
